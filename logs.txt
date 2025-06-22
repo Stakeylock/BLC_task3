@@ -1,0 +1,100 @@
+Welcome to the Rust Student Report Card Application!
+
+
+--- Student Report Card ---
+  Student Name: Excellent Emily
+  Class: 10A Section: Alpha
+
+  Subjects:
+    English   : 1st Term: 95.00, 2nd Term: 92.00, 3rd Term: 98.00, Final Term: 93.00, Avg: 94.50
+    Maths     : 1st Term: 95.00, 2nd Term: 92.00, 3rd Term: 98.00, Final Term: 93.00, Avg: 94.50
+    Science   : 1st Term: 95.00, 2nd Term: 92.00, 3rd Term: 98.00, Final Term: 93.00, Avg: 94.50
+    Art       : 1st Term: 95.00, 2nd Term: 92.00, 3rd Term: 98.00, Final Term: 93.00, Avg: 94.50
+    Reading   : 1st Term: 95.00, 2nd Term: 92.00, 3rd Term: 98.00, Final Term: 93.00, Avg: 94.50
+    Writing   : 1st Term: 95.00, 2nd Term: 92.00, 3rd Term: 98.00, Final Term: 93.00, Avg: 94.50
+    History   : 1st Term: 95.00, 2nd Term: 92.00, 3rd Term: 98.00, Final Term: 93.00, Avg: 94.50
+
+  Total Marks: 661.50
+  Overall Average: 94.50
+  Grade: A
+  Comment: An outstanding student with exceptional performance.
+---------------------------
+
+Report card saved to: report_cards/Excellent_Emily_report_card.pdf
+
+--- Student Report Card ---
+  Student Name: Bright Ben
+  Class: 10B Section: Beta
+
+  Subjects:
+    English   : 1st Term: 80.00, 2nd Term: 78.00, 3rd Term: 85.00, Final Term: 82.00, Avg: 81.25
+    Maths     : 1st Term: 80.00, 2nd Term: 78.00, 3rd Term: 85.00, Final Term: 82.00, Avg: 81.25
+    Science   : 1st Term: 80.00, 2nd Term: 78.00, 3rd Term: 85.00, Final Term: 82.00, Avg: 81.25
+    Art       : 1st Term: 80.00, 2nd Term: 78.00, 3rd Term: 85.00, Final Term: 82.00, Avg: 81.25
+    Reading   : 1st Term: 80.00, 2nd Term: 78.00, 3rd Term: 85.00, Final Term: 82.00, Avg: 81.25
+    Writing   : 1st Term: 80.00, 2nd Term: 78.00, 3rd Term: 85.00, Final Term: 82.00, Avg: 81.25
+    History   : 1st Term: 80.00, 2nd Term: 78.00, 3rd Term: 85.00, Final Term: 82.00, Avg: 81.25
+
+  Total Marks: 568.75
+  Overall Average: 81.25
+  Grade: B
+  Comment: Consistently performing well, showing good understanding.
+---------------------------
+
+Report card saved to: report_cards/Bright_Ben_report_card.pdf
+
+--- Student Report Card ---
+  Student Name: Average Alex
+  Class: 10C Section: Gamma
+
+  Subjects:
+    English   : 1st Term: 65.00, 2nd Term: 60.00, 3rd Term: 70.00, Final Term: 68.00, Avg: 65.75
+    Maths     : 1st Term: 65.00, 2nd Term: 60.00, 3rd Term: 70.00, Final Term: 68.00, Avg: 65.75
+    Science   : 1st Term: 65.00, 2nd Term: 60.00, 3rd Term: 70.00, Final Term: 68.00, Avg: 65.75
+    Art       : 1st Term: 65.00, 2nd Term: 60.00, 3rd Term: 70.00, Final Term: 68.00, Avg: 65.75
+    Reading   : 1st Term: 65.00, 2nd Term: 60.00, 3rd Term: 70.00, Final Term: 68.00, Avg: 65.75
+    Writing   : 1st Term: 65.00, 2nd Term: 60.00, 3rd Term: 70.00, Final Term: 68.00, Avg: 65.75
+    History   : 1st Term: 65.00, 2nd Term: 60.00, 3rd Term: 70.00, Final Term: 68.00, Avg: 65.75
+
+  Total Marks: 460.25
+  Overall Average: 65.75
+  Grade: C
+  Comment: Meets expectations, with room for improvement in some areas.
+---------------------------
+
+Report card saved to: report_cards/Average_Alex_report_card.pdf
+
+--- Student Report Card ---
+  Student Name: Developing David
+  Class: 10A Section: Delta
+
+  Subjects:
+    English   : 1st Term: 50.00, 2nd Term: 45.00, 3rd Term: 55.00, Final Term: 52.00, Avg: 50.50
+    Maths     : 1st Term: 50.00, 2nd Term: 45.00, 3rd Term: 55.00, Final Term: 52.00, Avg: 50.50
+    Science   : 1st Term: 50.00, 2nd Term: 45.00, 3rd Term: 55.00, Final Term: 52.00, Avg: 50.50
+    Art       : 1st Term: 50.00, 2nd Term: 45.00, 3rd Term: 55.00, Final Term: 52.00, Avg: 50.50
+    Reading   : 1st Term: 50.00, 2nd Term: 45.00, 3rd Term: 55.00, Final Term: 52.00, Avg: 50.50
+    Writing   : 1st Term: 50.00, 2nd Term: 45.00, 3rd Term: 55.00, Final Term: 52.00, Avg: 50.50
+    History   : 1st Term: 50.00, 2nd Term: 45.00, 3rd Term: 55.00, Final Term: 52.00, Avg: 50.50
+
+  Total Marks: 353.50
+  Overall Average: 50.50
+  Grade: D
+  Comment: Requires significant support and focused effort to improve grades.
+---------------------------
+
+Report card saved to: report_cards/Developing_David_report_card.pdf
+
+--- Student Report Card ---
+  Student Name: New Nora
+  Class: 10Z Section: Zeta
+
+  Subjects:
+
+  Total Marks: -0.00
+  Overall Average: N/A
+  Grade: N/A (No subjects)
+  Comment: New enrollment, awaiting subject assignments.
+---------------------------
+
+Report card saved to: report_cards/New_Nora_report_card.pdf
