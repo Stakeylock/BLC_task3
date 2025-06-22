@@ -1,0 +1,52 @@
+Student report card app
+
+
+--- Student Report Card ---
+  Student Name: Alice Smith
+  Total Marks: 450.00
+  Number of Subjects: 5
+  Average Marks: 90.00
+  Grade: A
+---------------------------
+
+Report card saved to: Alice_Smith_report_card.pdf
+
+--- Student Report Card ---
+  Student Name: Bob Johnson
+  Total Marks: 380.00
+  Number of Subjects: 5
+  Average Marks: 76.00
+  Grade: B
+---------------------------
+
+Report card saved to: Bob_Johnson_report_card.pdf
+
+--- Student Report Card ---
+  Student Name: Charlie Brown
+  Total Marks: 280.00
+  Number of Subjects: 4
+  Average Marks: 70.00
+  Grade: C
+---------------------------
+
+Report card saved to: Charlie_Brown_report_card.pdf
+
+--- Student Report Card ---
+  Student Name: Diana Prince
+  Total Marks: 190.00
+  Number of Subjects: 5
+  Average Marks: 38.00
+  Grade: D
+---------------------------
+
+Report card saved to: Diana_Prince_report_card.pdf
+
+--- Student Report Card ---
+  Student Name: Eve Adams
+  Total Marks: 0.00
+  Number of Subjects: 0
+  Average Marks: N/A
+  Grade: N/A (No subjects)
+---------------------------
+
+Report card saved to: Eve_Adams_report_card.pdf
